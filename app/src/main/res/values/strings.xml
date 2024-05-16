@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M_A08Exercicio01</string>
+    <string name="codigo">Codigo do ingresso</string>
+    <string name="preco">Valor do ingresso</string>
+    <string name="funcao">Função desempenhada</string>
+    <string name="comprar">Comprar</string>
+    <string name="normal">Normal</string>
+    <string name="vip">VIP</string>
+    <string name="voltar">Voltar</string>
+
+</resources>
